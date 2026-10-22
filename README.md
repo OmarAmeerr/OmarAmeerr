@@ -1,4 +1,4 @@
-# Hi, I'm Omar Ameer 👋
+# Hi, I'm Omar Ameer
 
 A dedicated software enthusiast with a strong foundation in **problem solving** and **software engineering**, deeply passionate about creating immersive games and pursuing a career in **Game Development** 🎮.
 
