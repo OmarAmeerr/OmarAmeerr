@@ -22,7 +22,7 @@
 
 ## 🎓 Education
 
-* **Bachelor of Computer Science** — [Your University Name]
+* **Bachelor of Computer Science** — [Misr International University]
   * *Relevant Coursework:* Data Structures & Algorithms · Object-Oriented Programming (OOP) · Assembly & Computer Architecture
 <!--
 **OmarAmeerr/OmarAmeerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
